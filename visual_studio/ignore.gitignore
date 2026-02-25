@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+Debug/
+x64/
+*.exe
+*.obj
+*.pdb
+
+# IntelliJ
+.idea/
+out/
+*.iml
