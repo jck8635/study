@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\study\\visual_studio\\2675\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70D15097-4EE7-4EDB-8B0E-E65DEBA4314F}|2675\\2675.vcxproj|D:\\Desktop\\study\\visual_studio\\2675\\2675\\2675.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70D15097-4EE7-4EDB-8B0E-E65DEBA4314F}|2675\\2675.vcxproj|solutionrelative:2675\\2675.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2675.cpp",
+              "DocumentMoniker": "D:\\Desktop\\study\\visual_studio\\2675\\2675\\2675.cpp",
+              "RelativeDocumentMoniker": "2675\\2675.cpp",
+              "ToolTip": "D:\\Desktop\\study\\visual_studio\\2675\\2675\\2675.cpp",
+              "RelativeToolTip": "2675\\2675.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-02T04:59:16.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
