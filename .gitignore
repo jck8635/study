@@ -1,0 +1,16 @@
+# Visual Studio
+visual_studio/
+.vs/
+*.sln
+*.vcxproj
+
+# IntelliJ
+IntelliJ/
+.idea/
+*.iml
+
+# build files
+Debug/
+Release/
+x64/
+*.exe
